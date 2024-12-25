@@ -43,7 +43,7 @@ int main() {
     int p2_count = 0;
 
     // Read infile
-    std::ifstream file("02.in");
+    std::ifstream file("../02.in");
     std::vector<std::vector<int>> reports;
 
     if (!file) {

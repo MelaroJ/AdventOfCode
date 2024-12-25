@@ -31,7 +31,7 @@ def is_valid(report):
 start = time.time()
 
 # Path to input txt
-input_path = "02.in"
+input_path = "2024/02.in"
 
 # Lazily read file and process it
 p1_count = (

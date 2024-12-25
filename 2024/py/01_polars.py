@@ -6,7 +6,7 @@ import polars as pl
 import polars.selectors as cs
 import time
 
-input_path = pathlib.Path("01.in")
+input_path = pathlib.Path("2024/01.in")
 
 start_time = time.time()
 

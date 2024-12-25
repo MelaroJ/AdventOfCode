@@ -4,7 +4,7 @@
 import time
 
 a = list(map(list, zip(*[list(map(int, line.split()))
-                   for line in open('01.in').read().splitlines()]
+                   for line in open('2024/01.in').read().splitlines()]
              )
          )
      )

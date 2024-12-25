@@ -12,7 +12,7 @@
 // https://adventofcode.com/2024/day/1
 
 int main() {
-    std::ifstream file("01.in");
+    std::ifstream file("../01.in");
     std::vector<int> l, r;
 
     // Parse input
