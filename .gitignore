@@ -1,2 +1,4 @@
+## data infiles and project files
 *.in
 *.example
+*.python-version
